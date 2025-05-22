@@ -136,7 +136,7 @@
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-9-Coffee%26Employee_jdbc_progs2/9b-Query_Coffee/9b_output.png)  
 
 ### 27. append_Report  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9c-append/9c_output.png)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/tree/main/Exp-9-Coffee%26Employee_jdbc_progs2/9c-append)  
 
 ### 28. Delete_Employee  
 - **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/9d-delete_emp/9d_output.png)  
