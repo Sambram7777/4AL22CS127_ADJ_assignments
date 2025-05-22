@@ -127,7 +127,7 @@
 
 ## 📌 Program 9: Database Operations
 
-### MYSQL_Setup = (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-9-Coffee-Employee_jdbc/MYSQL_Setup)
+### MYSQL_Setup = (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-9-Coffee%26Employee_jdbc_progs2/MYSQL_Setup)
 
 ### 25. Delete_Coffee  
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-9-Coffee%26Employee_jdbc_progs2/9a-Delete_Coffee/9a_output.png)  
