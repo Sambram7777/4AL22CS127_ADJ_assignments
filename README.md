@@ -7,7 +7,7 @@
 ## 📌 Program 1: List Interface
 
 ### 1. ListInterfaceDemo
-- **ListInterfaceDemo Output =>**(https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-a_ListInterfaceDemo/program_1_A_output.jpg)
+- **ListInterfaceDemo Output =>**(https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-a_ListInterfaceDemo/program_1_A_output.jpg)
 
 ### 2. Array_List  
 - **ColorSearch Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-b_Array_List/arraylist1.jpg)  
