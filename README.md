@@ -112,7 +112,7 @@
 ### MYSQL_Setup = (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-8-Coffee%26Employee_jdbc_progs/MYSQL_Setup)
 
 ### 21. Insert_Coffee  
-- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/tree/main/Exp-8-Coffee%26Employee_jdbc_progs/8a-insert_coffee)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-8-Coffee%26Employee_jdbc_progs/8a-insert_coffee/8a_output.png)  
 
 ### 22. Update_Coffee  
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/tree/main/Exp-8-Coffee%26Employee_jdbc_progs/8b_output.png)  
