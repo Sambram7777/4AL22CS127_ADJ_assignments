@@ -32,7 +32,7 @@
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-2-String_progs/2a-StringOperationsDemo/2a_output.png)  
 
 ### 5. PerformanceTest  
-- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-2-String_progs/2a-StringOperationsDemo/2b_output.png)
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-2-String_progs/2b-PerformanceTest/2b_output.png)
 
 
 ---
