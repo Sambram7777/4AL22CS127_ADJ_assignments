@@ -45,7 +45,7 @@
 ### 7. StringOperation_B  
 - **NullOrEmptyCheck Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3bq1_output.png) 
 - **SubStringCounter Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3bq2_output.png) 
-- **ReverseString Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3bq3_output.png)  
+- **ReverseString Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3b_revstring.png)  
 - **PalindromeCheck Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3bq4_output.png) 
 - **RemoveWhiteSpace Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3bq5_output.png)   
 
