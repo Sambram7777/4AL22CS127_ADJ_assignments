@@ -90,7 +90,7 @@
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-6-servlet_progs/6a-factorial_calculator/p6a_output.png)
 
 ### 17. CookieServlet  
-- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-6-servlet_progs/6b-cookieservlet/6b_output.png)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-6-servlet_progs/6b-cookieservlet/6b_outputs.png)  
 
 ### 18. PrimeServlet  
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-6-servlet_progs/6c-PrimeChecker/6c_output.png)  
