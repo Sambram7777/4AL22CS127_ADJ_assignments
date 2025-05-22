@@ -18,11 +18,11 @@
 
 
 ### 3. Linked_List  
-- **IterateFromSecond Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_6.jpg)  
-- **ReverseIteration Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_7.jpg)  
-- **InsertAtEnd Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_8.jpg)  
-- **DisplayWithPositions Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_9.jpg)  
-- **SwapElements Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-1-List_operation/1-c_Linked_List/Linked_List_10.jpg)
+- **IterateFromSecond Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_6.jpg)  
+- **ReverseIteration Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_7.jpg)  
+- **InsertAtEnd Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_8.jpg)  
+- **DisplayWithPositions Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_9.jpg)  
+- **SwapElements Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_10.jpg)
 
 ---
 
