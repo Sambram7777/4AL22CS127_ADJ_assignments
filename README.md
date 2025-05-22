@@ -139,4 +139,4 @@
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-9-Coffee%26Employee_jdbc_progs2/9c-append/Salary_Report.jsp)  
 
 ### 28. Delete_Employee  
-- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/tree/main/Exp-9-Coffee%26Employee_jdbc_progs2/9d-delete_emp)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-9-Coffee%26Employee_jdbc_progs2/9d-delete_emp/9d_output.png)  
