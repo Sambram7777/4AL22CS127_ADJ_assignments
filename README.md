@@ -70,16 +70,16 @@
 ## 📌 Program 5: GUI Components
 
 ### 12. JListExample  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-5-Swings/5a-JListExample/5a_output.png)
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-5-Swings_progs2/5a-JListExample/5a_output.png)
 
 ### 13. TabbedPaneExample  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-5-Swings/5b-TabbedPaneExample/5b_output.png)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-5-Swings_progs2/5b-TabbedPaneExample/5b_output.png)  
 
 ### 14. CountryCapitalList  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-5-Swings/5c-CountryCapitalList/5c_output.png)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-5-Swings_progs2/5c-CountryCapitalList/5c_output.png)  
 
 ### 15. ColorTabbedPane  
-- **Output =>** (https://github.com/4AL22CS098/Advanced_java/blob/main/Exp-5-Swings/5d-ColorTabbedPane/5d_output.png)
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-5-Swings_progs2/5d-ColorTabbedPane/5d_output.png)
 
 
 ---
