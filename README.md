@@ -19,7 +19,7 @@
 
 ### 3. Linked_List  
 - **IterateFromSecond Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_6.jpg)  
-- **ReverseIteration Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_7.jpg)  
+- **ReverseIteration Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-3-String_progs2/3b-String_Exercise/3b_revstring.png)  
 - **InsertAtEnd Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_8.jpg)  
 - **DisplayWithPositions Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_9.jpg)  
 - **SwapElements Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-1-List_progs/1-c_Linked_List/Linked_List_10.jpg)
