@@ -118,7 +118,7 @@
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/tree/main/Exp-8-Coffee%26Employee_jdbc_progs/8b_output.png)  
 
 ### 23. append_Employee  
-- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/tree/main/Exp-8-Coffee%26Employee_jdbc_progs/8c-append_Employee)  
+- **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-8-Coffee%26Employee_jdbc_progs/8d-Update_Employee/8d_output.png)  
 
 ### 24. Update_Employee  
 - **Output =>** (https://github.com/Sambram7777/4AL22CS127_ADJ_assignments/blob/main/Exp-8-Coffee%26Employee_jdbc_progs/8d-Update_Employee/8d_output.png)  
